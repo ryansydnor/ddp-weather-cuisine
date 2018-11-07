@@ -1,0 +1,23 @@
+{
+  "name": "ddp-restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pull.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryansydnor/ddp-weather-cuisine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryansydnor/ddp-weather-cuisine/issues"
+  },
+  "homepage": "https://github.com/ryansydnor/ddp-weather-cuisine#readme",
+  "dependencies": {
+    "csv-writer": "^1.2.0",
+    "google-trends-api": "^4.7.0"
+  }
+}
